@@ -1,0 +1,5 @@
+# macOS spezifische Dateien
+.DS_Store
+
+# PyCharm spezifische Dateien
+.idea/
